@@ -1,7 +1,7 @@
 # personal-portfolio
  Its simple personal portfolio. this portfolio made using only html and css
 
-![Home Page](https://github.com/shaun-mia/personal-portfolio/assets/84870531/8d626f66-b722-4eba-a60d-e01c2a3ea830
+![Home Page](https://github.com/shaun-mia/personal-portfolio/assets/84870531/5766ff76-9631-40dc-ae70-17fa5848bf28)
 
 ![Education](https://github.com/shaun-mia/personal-portfolio/assets/84870531/af7a8f22-cd31-4513-ba33-1dcf6241d6c5)
 
